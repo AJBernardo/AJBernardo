@@ -1,3 +1,9 @@
+<div align="center">
+
+![Header](assets/header.gif)
+
+</div>
+
 <!-- My GitHub Stats -->
 # GitHub Overview
 <div align="center">
