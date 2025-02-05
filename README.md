@@ -1,12 +1,3 @@
-<!-- Header -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-<img src="assets/cat-left.gif" alt="Cat Left Header" style="height: auto; width: 25%;">
-<h1 style="word-wrap: break-word; text-align: center;">Hi There! I'm Austine Jade,<br>A Future FullStack Developer</h1>
-<img src="assets/cat-right.gif" alt="Cat Right Header" style="height: auto; width: 25%;">
-
-</div>
-
 <!-- My GitHub Stats -->
 # GitHub Overview
 <div align="center">
