@@ -1,7 +1,28 @@
-# Hi There!
+<!-- Initialize font -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;600;700&display=swap" rel="stylesheet">
 
+<!-- Stylings -->
+<style>
+    body{
+        font-family: Montserrat, "sans-serif";
+    }
+    .greetings{
+        word-wrap: break-word;
+        text-align: center;
+    }
+</style>
 
+<!-- Header -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
+<img src="assets/cat-left.gif" alt="Cat Left Header" style="height: auto; width: 25%;">
+<h1 class="greetings">Hi There! I'm Austine Jade,<br>A Future FullStack Developer</h1>
+<img src="assets/cat-right.gif" alt="Cat Right Header" style="height: auto; width: 25%;">
+
+</div>
+
+<!-- My GitHub Stats -->
+# GitHub Overview
 <div align="center">
   
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJBernardo&show_icons=true&theme=date_night&custom_title=My%20GitHub%20Stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJBernardo&layout=compact&theme=date_night&card_width=467) |
@@ -9,8 +30,9 @@
 
 </div>
 
-<br>
+<br> 
 
+<!-- My Repositories -->
 # My Repositories
 <div align="center">
 
