@@ -4,11 +4,14 @@
 
 </div>
 
+# :rainbow: **WELCOME TO MY GITHUB PROFILE** :snowman_with_snow:
+
+
 <!-- My GitHub Stats -->
 # GitHub Overview
 <div align="center">
   
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJBernardo&show_icons=true&theme=date_night&custom_title=My%20GitHub%20Stats&v=1) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJBernardo&layout=compact&theme=date_night&card_width=467&v=1) |
+| ![Austine Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJBernardo&show_icons=true&theme=date_night&custom_title=My%20GitHub%20Stats&v=1) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJBernardo&layout=compact&theme=date_night&card_width=467&v=1) |
 | ------------- | ------------- |
 
 </div>
