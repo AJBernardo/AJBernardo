@@ -4,7 +4,8 @@
 
 </div>
 
-# :rainbow: **WELCOME TO MY GITHUB PROFILE** :snowman_with_snow:
+# :rainbow: **_MAGANDANG ARAW! MALIGAYANG PAGDATING SA AKING GITHUB PROFILE_** :snowman_with_snow:
+Design has always been my passion—whether it's crafting stunning visuals in Canva and Figma or bringing ideas to life through code. I find joy in turning creativity into something tangible, something that speaks without words. Beyond design, I embrace the ever-evolving world of web development, constantly exploring new ways to build and create. With JavaScript and PHP as my latest adventures, I continue to grow, learn, and push boundaries. Every pixel, every line of code—it all tells a story, and I'm here to create mine. :star2:
 
 
 <!-- My GitHub Stats -->
