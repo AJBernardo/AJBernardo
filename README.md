@@ -5,8 +5,34 @@
 </div>
 
 # :rainbow: **_MAGANDANG ARAW! MALIGAYANG PAGDATING SA AKING GITHUB PROFILE_** :snowman_with_snow:
-Design has always been my passion—whether it's crafting stunning visuals in Canva and Figma or bringing ideas to life through code. I find joy in turning creativity into something tangible, something that speaks without words. Beyond design, I embrace the ever-evolving world of web development, constantly exploring new ways to build and create. With JavaScript and PHP as my latest adventures, I continue to grow, learn, and push boundaries. Every pixel, every line of code—it all tells a story, and I'm here to create mine. :star2:
+Design has always been my passion—whether it's crafting stunning visuals in ***Canva and Figma*** or bringing ideas to life through code. I find joy in turning creativity into something tangible, something that speaks without words. Beyond design, I embrace the ever-evolving world of web development, constantly exploring new ways to build and create. With ***JavaScript and PHP*** as my latest adventures, I continue to grow, learn, and push boundaries. **Every pixel, every line of code—it all tells a story, and I'm here to create mine.** :star2:
 
+# WHAT'S IN THE BASKET
+
+<details open>
+
+<summary> :abacus: LANGUAGES :abacus: </summary>
+
+[![Languages](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,php,mysql)](https://skillicons.dev)
+
+</details>
+
+<details>
+
+<summary> :framed_picture: FRAMEWORKS :framed_picture: </summary>
+
+[![Frameworks](https://skillicons.dev/icons?i=bootstrap,dotnet)](https://skillicons.dev)
+
+</details>
+
+<details>
+
+<summary> :art: CREATIVE TOOLS :paintbrush: </summary>
+
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps,pr,ae)](https://skillicons.dev)
+![Canva](https://img.shields.io/badge/canva-020202?style=for-the-badge&logo=Canva)
+
+</details>
 
 <!-- My GitHub Stats -->
 # GitHub Overview
