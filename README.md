@@ -38,7 +38,7 @@ Design has always been my passion—whether it's crafting stunning visuals in **
 # GitHub Overview
 <div align="center">
   
-| ![Austine Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJBernardo&show_icons=true&theme=date_night&custom_title=My%20GitHub%20Stats&v=4) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJBernardo&layout=compact&theme=date_night&card_width=467&v=4) |
+| ![Austine Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJBernardo&show_icons=true&theme=date_night&custom_title=My%20GitHub%20Stats&v=5) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJBernardo&layout=compact&theme=date_night&card_width=467&v=5) |
 | ------------- | ------------- |
 
 </div>
@@ -49,8 +49,8 @@ Design has always been my passion—whether it's crafting stunning visuals in **
 # My Repositories
 <div align="center">
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=AJBernardo.github.io&theme=date_night&v=4)](https://github.com/AJBernardo/AJBernardo.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=WD-BE&theme=date_night&v=4)](https://github.com/AJBernardo/WD-BE) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=AJBernardo.github.io&theme=date_night&v=5)](https://github.com/AJBernardo/AJBernardo.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=WD-BE&theme=date_night&v=5)](https://github.com/AJBernardo/WD-BE) |
 | ------------- | ------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=Database-Administration&theme=date_night&v=4)](https://github.com/AJBernardo/Database-Administration) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=Java-World&theme=date_night&v=4)](https://github.com/AJBernardo/Java-World) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=Database-Administration&theme=date_night&v=5)](https://github.com/AJBernardo/Database-Administration) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AJBernardo&repo=Java-World&theme=date_night&v=5)](https://github.com/AJBernardo/Java-World) |
 
 </div>
